@@ -1,0 +1,140 @@
+body{
+background: yellow;
+}
+
+.cuadrogrande{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 1330px;
+	height: 625px;
+	background: red;
+	border: solid 5px black;
+}
+
+.titulogrande{
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	width: 530px;
+	height: 100px;
+	background: blue;
+	border: solid 5px black;
+	font-size: 30px;
+    padding-left: 200px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    font-family: Comic Sans MS;
+    color: white;
+}
+
+.parrafo1{
+	position: absolute;
+	top: 140px;
+	left: 15px;
+	width: 530px;
+	height: 250px;
+	background: blue;
+	box-sizing: border-box;
+	border: solid 5px black;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: justify;
+}
+
+.foto1{
+ position: absolute;
+	top: 420px;
+	left: 15px;
+	width: 170px;
+	height: 170px;
+	border: solid 5px black;
+	background: url(medalla.png);
+	background-size: cover;
+}
+.parrafo2{
+	position: absolute;
+	top: 420px;
+	left: 250px;
+	width: 290px;
+	height: 177px;
+	border: solid 5px black;
+	background: blue;
+	box-sizing: border-box;
+	font-size: 15.8px;
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: justify;
+}
+
+.cuadromediano{
+	position: absolute;
+	top: 15px;
+	left: 700px;
+	width: 600px;
+	height: 365px;
+	background: blue;
+	border: solid 5px black;
+}
+
+.parrafo3{
+    position: absolute;
+	top: 15px;
+	left: 15px;
+	width: 555px;
+	height: 170px;
+	background: green;
+	border: solid 5px black;
+	font-size: 12px;
+    font-family: Comic Sans MS;
+    color: white;
+}
+
+.foto2{
+    position: absolute;
+	top: 205px;
+	left: 70px;
+	width: 160px;
+	height: 140px;
+	border: solid 5px black;
+	background: url(descarga2.jpg);
+	background-size: cover;
+}
+
+.foto3{
+    position: absolute;
+	top: 205px;
+	right: 70px;
+	width: 160px;
+	height: 140px;
+	border: solid 5px black;
+	background: url(descarga3.jpg);
+	background-size: cover;
+}
+
+.parrafo4{
+	position: absolute;
+	top: 420px;
+	left: 700px;
+	width: 350px;
+	height: 179px;
+	border: solid 5px black;
+	background: blue;
+	box-sizing: border-box;
+	font-size: 15.4px;
+	font-family: Comic Sans MS;
+	color: white;
+	text-align: justify;
+	box-sizing: border-box;
+}
+.foto4{
+ position: absolute;
+	top: 420px;
+	right: 20px;
+	width: 170px;
+	height: 170px;
+	border: solid 5px black;
+	background: url(descarga.jpg);
+	background-size: cover;
+}
