@@ -138,3 +138,18 @@ background: yellow;
 	background: url(descarga.jpg);
 	background-size: cover;
 }
+
+.opinion{
+    position: absolute;
+    top: 15px;
+    left: 1370px;
+    width: 430px;
+    height: 625px;
+    background: blue;
+    border: solid 5px black;
+    font-size: 35px;
+    font-family: Comic Sans MS;
+	color: white;
+	text-align: center;
+	box-sizing: border-box;
+}
